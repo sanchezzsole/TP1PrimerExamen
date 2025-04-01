@@ -10,6 +10,7 @@ Un proyecto puede ser:
 * Documental: Tiene el tipo de documental, que puede ser SOCIAL, CULTURAL, HISTÓRICO, CIENTÍFICO. Para cada caso se tendrá en cuenta el indicador porcentual de cada tipo de documental, mismo que se debe utilizar para el cálculo del presupuesto final. 
 Para que el proyecto se apruebe, el presupuesto final debe coincidir con el costo del plan económico, o ser mayor. Si esto sucede, el proyecto recibe luz verde para comenzar. Si el presupuesto final es menor al plan económico, el proyecto no recibe subsidio y no se puede avanzar.   
 Se pide:
+
 1- Desarrollar los métodos necesarios para la gestión de los proyectos, tales como guardado, recorrido, copia, etc. 
 
 2- Desarrollar el método presupuestoAprobado que devuelve un booleano para determinar si el proyecto en cuestión tiene luz verde para realizarse.
